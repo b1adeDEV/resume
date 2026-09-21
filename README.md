@@ -1,5 +1,7 @@
 # Denis Fedoruk — Fullstack Developer
 
+DEMO: https://resume-coral-tau-68.vercel.app
+
 > Personal developer portfolio built with Vue 3, Vite and modern CSS animations.
 
 Портфолио - **Middle Fullstack Developer с backend-фокусом**.
